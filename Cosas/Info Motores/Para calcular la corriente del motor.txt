@@ -1,0 +1,12 @@
+Para calcular la corriente del motor:
+
+En los drivers DRV8825 la formula es:
+corriente = A / 2
+
+
+en nuestro caso:
+*para los motores x - y - z - e:
+A = 1.5 (vamos a usar 1.35 para que no trabaje al limite)
+Entonces:
+corriente = 0.675
+

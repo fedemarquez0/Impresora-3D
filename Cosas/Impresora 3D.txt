@@ -1,0 +1,21 @@
+IMPRESORA 3D
+
+Pagina web: https://marlinfw.org/docs/configuration/configuration.html
+
+-------------------------------------------------------------------
+
+Partes:
+
+*Extrusor: https://www.tiendavirtual.com/tienda/impresion-3d/partes/hotend-e3d-ptfe-extrusor-v6-175mm-impresora-3d-reprap-prusa
+
+*Mesa: https://articulo.mercadolibre.com.ar/MLA-621334306-mesa-cama-caliente-mk2-12v24v-impresora-3d-prusa-termist-_JM
+
+-------------------------------------------------------------------
+
+Informacion:
+
+* Termistor extrusor: 100 k NTC B 3950
+
+* Termistor cama: con el 1 funciona bien
+
+* Pantalla: REPRAP_DISCOUNT_FULL_GRAPHIC_SMART_CONTROLLER | https://reprap.org/wiki/RepRapDiscount_Full_Graphic_Smart_Controller

@@ -1,0 +1,18 @@
+HACER IMPRESORA:
+
+Se pueden determinar un precalentamiento antes de imprimir (Preheat Constants)
+
+Velocidad de alimentación máxima predeterminada:
+#define DEFAULT_MAX_FEEDRATE { 500, 500, 2.25, 45 }
+
+Aceleración máxima predeterminada:
+#define DEFAULT_MAX_ACCELERATION { 3000, 3000, 100, 10000 }
+
+Aceleración predeterminada:
+#define DEFAULT_ACCELERATION          3000
+#define DEFAULT_RETRACT_ACCELERATION  3000
+#define DEFAULT_TRAVEL_ACCELERATION   3000
+
+Sensor de agotamiento del filamento
+
+//#define EEPROM_SETTINGS
